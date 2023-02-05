@@ -1,0 +1,1 @@
+Phần cứng của dự án
