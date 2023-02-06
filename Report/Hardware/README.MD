@@ -1,0 +1,1 @@
+# Báo cáo về phần cứng
