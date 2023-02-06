@@ -1,2 +1,2 @@
 # FPGA_TOPIC
- Máy chuẩn đoán hỏng hóc bảng mạch nhớ dựa trên công nghệ FPGA
+# Nghiên cứu xây dựng thiết bị kiểm tra bảng mạch chức năng của thiết thiết bị kiểm tra PKY-13 trên cơ sở FPGA.
