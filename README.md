@@ -1,5 +1,6 @@
 # FPGA_TOPIC
 # Nghiên cứu xây dựng thiết bị kiểm tra bảng mạch chức năng của thiết thiết bị kiểm tra PKY-13 trên cơ sở FPGA.
+# Research and build test equipment for functional circuit boards of PKY-13 test equipment on the basis of FPGA.
 -----
 ## Hình ảnh 2D vs 3D :
 <img align="left" alt="altium_2D" width="335x" src="https://user-images.githubusercontent.com/102669394/217011156-ea255493-71ef-4593-8beb-a221f9fac4aa.png" />
