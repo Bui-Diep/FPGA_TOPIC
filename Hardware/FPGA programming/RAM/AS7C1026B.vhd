@@ -1,5 +1,6 @@
 library IEEE; 
 use IEEE.STD_LOGIC_1164.all;
+use IEEE.std_logic_arith.all;
 
 entity AS7C1026B is 
   generic ( WORD_SIZE : integer := 4;   
@@ -22,11 +23,10 @@ begin
   begin
     if (ce = '1') then 
       if (we = '1') then
-        my_rom (conv_integer(addr)) <= Data;
+        my_rom (to_integer(unsigned(addr))) <= Data ;
       elsif (oe = '1') then
-        Data <= my_rom(conv_integer(addr));
+        Data <= my_rom(to_integer(unsigned(addr)));
       end if;
     end if;
   end process;
 end Behavioral;
---ok
