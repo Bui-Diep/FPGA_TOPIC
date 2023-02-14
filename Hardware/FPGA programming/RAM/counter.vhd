@@ -9,7 +9,7 @@ generic
     ( n : integer := 4 ); 
 port 
     ( CLK : in std_logic; 
-  Q   : out std_logic_vector (n-1 downto 0) );
+        q   : out std_logic_vector (n-1 downto 0) );
 end counter;
 
 architecture dataflow of counter is
