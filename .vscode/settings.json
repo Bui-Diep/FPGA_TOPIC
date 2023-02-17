@@ -1,0 +1,15 @@
+{
+    "css.format.preserveNewLines": true,
+    "markdown.preview.breaks": true,
+    "editor.lineNumbers": "on",
+    "editor.renderFinalNewline": "off",
+    "editor.renderLineHighlight": "gutter",
+    "editor.renderLineHighlightOnlyWhenFocus": false,
+    "editor.scrollBeyondLastLine": true,
+    "editor.unfoldOnClickAfterEndOfLine": false,
+    "files.trimFinalNewlines": false,
+    "files.insertFinalNewline": false,
+    "zenMode.hideLineNumbers": true,
+    "search.showLineNumbers": false,
+    "css.format.newlineBetweenRules": true
+}
