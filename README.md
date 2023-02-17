@@ -3,8 +3,8 @@
 ## Research and build test equipment for functional circuit boards of PKY-13 test equipment on the basis of FPGA !!!
 -----
 ## 3D and 2D images :
-<img align="left" alt="altium_3D" width="345x" src="https://user-images.githubusercontent.com/102669394/217011156-ea255493-71ef-4593-8beb-a221f9fac4aa.png" />
-<img align="left" alt="altium_2D" width="350px" src="https://user-images.githubusercontent.com/102669394/217010967-f6153172-c8a9-4451-846d-17226d63ffd6.png" />
+<img align="left" alt="altium_3D" width="335x" src="https://user-images.githubusercontent.com/102669394/217011156-ea255493-71ef-4593-8beb-a221f9fac4aa.png" />
+<img align="left" alt="altium_2D" width="340px" src="https://user-images.githubusercontent.com/102669394/217010967-f6153172-c8a9-4451-846d-17226d63ffd6.png" />
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br />
 <br /><br /><br /><br />
