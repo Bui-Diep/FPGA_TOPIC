@@ -45,7 +45,7 @@ begin
         end if;  
     end if;
    end process reg_file;
-   wr_en <= wr and not(full_r); -- tin hieu cho phep ghi khi co tin hieu yeu cau ghi va fi fo chua day
+   wr_en <= wr and not(full_r); -- tin hieu cho phep ghi khi co tin hieu yeu cau ghi va fifo chua day
    rd_data <= array_r(conv_integer(unsigned(rd_prt_r))); -- doc du lieu o dia chi rd_prt (doi kieu du lieu)
   fifo : process(clkht, rst)
   begin
