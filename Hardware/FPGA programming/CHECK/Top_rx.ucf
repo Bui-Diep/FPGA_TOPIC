@@ -1,0 +1,14 @@
+net "ckht" loc = p55;
+net "btn_rst" loc = p59;
+net "empty" loc = p105;
+net "xdgm" loc = p112;
+net "rx" loc = p93;
+
+net "data_out[0]" loc = p92;
+net "data_out[1]" loc = p88;
+net "data_out[2]" loc = p87;
+net "data_out[3]" loc = p85;
+net "data_out[4]" loc = p84;
+net "data_out[5]" loc = p83;
+net "data_out[6]" loc = p82;
+net "data_out[7]" loc = p81;
